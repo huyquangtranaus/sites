@@ -1,5 +1,5 @@
 site_name: Data Science with Dr.Tran
-# use_directory_urls: false
+use_directory_urls: false
 theme:
   name: material
   features:
